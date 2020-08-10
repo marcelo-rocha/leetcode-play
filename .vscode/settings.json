@@ -4,6 +4,7 @@
         "map": "cpp"
     },
     "cSpell.words": [
-        "crbegin"
+        "crbegin",
+        "crend"
     ]
 }
